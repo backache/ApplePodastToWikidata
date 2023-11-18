@@ -1,7 +1,7 @@
 #Get  URL
-#http://itunes.apple.com/lookup?id=1411257149
-$Q = 'Q110575475','Q110575472','Q110575473','Q110575478','Q110575479','Q110575476','Q110575477','Q110575482','Q110575483','Q110575480','Q110575487','Q110575484','Q110575485','Q110575491','Q110575488','Q110575489','Q110575494','Q110575495','Q110575493','Q110575498','Q110575499','Q110575496','Q110575497','Q110575502','Q110575500','Q110575501','Q110575506','Q110575505','Q110580102','Q110580150','Q110580151','Q110580149','Q110580154','Q110580155','Q110580153','Q110580158','Q110580159','Q110580156','Q110580157','Q110580162','Q110580163','Q110580160','Q110580161','Q110580166','Q110580167','Q110580164','Q110580165','Q110580170','Q110580171','Q110580168','Q110580169','Q110580174','Q110580175','Q110580172','Q110580173','Q110580178','Q110580179','Q110580176','Q110580177','Q110580182','Q110580183','Q110580181','Q110580184','Q110580320','Q110580398','Q110580446','Q110580974','Q110580985','Q110581025','Q110581080','Q110581229','Q110581818','Q110581823','Q110581821','Q110581827','Q110597510','Q110612073','Q110617734','Q110623729','Q110652766','Q110657688','Q110682649','Q110732542','Q110738459','Q110763913','Q110772791','Q110777804','Q110785392','Q110819613','Q110820658','Q110821225','Q110829573','Q110854779','Q110879130','Q110930671','Q110932967','Q110932983','Q110944977','Q110946233','Q110969640','Q110970577','Q110972949','Q111015725','Q111016687','Q111019758','Q111034118','Q111043029','Q111080743','Q111136186','Q111149454','Q111161112','Q111197610','Q111207445','Q111211375','Q111212660','Q111212951','Q111214952','Q111215049','Q111243850','Q111269998','Q111272218','Q111281025','Q111306516','Q111324673','Q111326459','Q111334943','Q111335872','Q111340451','Q111343131','Q111383156','Q111383733','Q111456819','Q111457170','Q111461299','Q111470789','Q111475749','Q111479353','Q111507014','Q111523798','Q111544194','Q111584964','Q111589365','Q111638907','Q111667822','Q111751388','Q111777218','Q111792305','Q111804049','Q111804480','Q111906154','Q111944132','Q111945072','Q111950209','Q111951424','Q111958396','Q111969632','Q111990074','Q112033461','Q112055276','Q112075061','Q112081549','Q112128338','Q112178238','Q112208938','Q112234091','Q112262407','Q112537167','Q112571448','Q112626819','Q112671848','Q112679842','Q112704967','Q112914079','Q112944957','Q112945294','Q112945386','Q112945408','Q112945450','Q112945493','Q112945522','Q112946348','Q112946674','Q112978133','Q113048544','Q113090066','Q113110864','Q113111864','Q113337465','Q113459234','Q113459327','Q113459371','Q113523134','Q113559001','Q113559381','Q113646360','Q113667988','Q113853791','Q113882514','Q113909298','Q113915999','Q113950221','Q113990365','Q113995005','Q114036929','Q114170145','Q114245090','Q114279033','Q114290446','Q114387587','Q114406644','Q114434773','Q114458143','Q114495991','Q114614767','Q114774266','Q114974802','Q114985059','Q115007463','Q115007687','Q115009398','Q115014918','Q115015317','Q115117397','Q115119039','Q115120813','Q115130175','Q115210613','Q115325114','Q115328901','Q115360099','Q115380016','Q115431204','Q115445230','Q115460532','Q115468732','Q115472582','Q115536370','Q115543099','Q115565395','Q115777082','Q115777083','Q115777081','Q115777086','Q115777087','Q115777084','Q115777085','Q115777090','Q115777088','Q115777089','Q115777094','Q115777095','Q115777092','Q115777093','Q115777098','Q115777099','Q115777096','Q115777097','Q115777102','Q115777103','Q115777100','Q115777101','Q115777106','Q115777107','Q115777105','Q115777110','Q115777111','Q115777108','Q115777109','Q115777114','Q115777115','Q115777113','Q115777119','Q115777116','Q115777117','Q115805050','Q115860866','Q115862272','Q115903371','Q115921121','Q115923949','Q116044845','Q116055413','Q116201052','Q116235345','Q116263835','Q116264326','Q116431636','Q116448020','Q116455459','Q116455462','Q116455463','Q116455460','Q116455461','Q116455466','Q116455467','Q116455464','Q116455465','Q116455470','Q116455471','Q116455469','Q116455472','Q116502322','Q116626451','Q116685577','Q116695523','Q116697925','Q116740119','Q116740122','Q116740123','Q116740120','Q116740121','Q116740126','Q116740127','Q116740124','Q116740125','Q116740130','Q116740131','Q116740129','Q116740134','Q116740135','Q116740132','Q116740133','Q116740138','Q116740139','Q116740136','Q116740137','Q116740142','Q116740143','Q116740140','Q116740141','Q116740147','Q116740144','Q116740145','Q116741115','Q116780750','Q116785919','Q116785950','Q116785961','Q116785968','Q116785982','Q116785981','Q116786010','Q116786015','Q116786054','Q116786061','Q116786064','Q116786075','Q116786073','Q116786077','Q116786252','Q116786264','Q116786291','Q116786299','Q116786309','Q116786343','Q116786352','Q116813766','Q116864584','Q116864999','Q116872364','Q116880085','Q116893823','Q116897449','Q116897466','Q116897472','Q116907444','Q116907491','Q116921808','Q116922138','Q116923099','Q116947371','Q116947698','Q116948052','Q116949489','Q117035891','Q117191036','Q117194018','Q117222524','Q117266182','Q117288934','Q117301847','Q117304858','Q117314793','Q117314845','Q117314850','Q117314855','Q117314867','Q117314875','Q117314937','Q117314966','Q117315061','Q117315069','Q117315138','Q117315383','Q117315446','Q117324423','Q117324539','Q117327964','Q117328321','Q117338295','Q117349405','Q117349449','Q117352057','Q117359304','Q117382625','Q117382671','Q117382803','Q117382859','Q117443550','Q117539815','Q117756822','Q117787064','Q117804081','Q117821489','Q117832729','Q118140396','Q118196889','Q118210449','Q118213523','Q118447912','Q118560903','Q118640309','Q118713181','Q118793072','Q119057839','Q119081661','Q119090366','Q119104490','Q119380060','Q119382319','Q119385083','Q119389675','Q119726889','Q119729468','Q119820175','Q119996851','Q120019676','Q120102839','Q120186998','Q120187115','Q120262876','Q120484662','Q120484715','Q120484972','Q120485429','Q120485457','Q120485541','Q120488888','Q120491376','Q120767408','Q120947566','Q120966982','Q121078949','Q121300408','Q121339057','Q121339233','Q121438797','Q121463874','Q121535608','Q121563597','Q121760876','Q121818395','Q121832240','Q121841087','Q122224794','Q122375807','Q122451241','Q122585278','Q122633013','Q122633026','Q122676653','Q122721944','Q122723366','Q122781688','Q122920287','Q122969915','Q123004002','Q123012627','Q123026299','Q123150004','Q123157894','Q123158035','Q123158041','Q123167116','Q123179100','Q123179136','Q123198821','Q123200168','Q123237894','Q123239829','Q123245179','Q123273180','Q123273252','Q123273300','Q123281075','Q123281872','Q123282026','Q123282749','Q17495','Q41984'
-
+#http://itunes.apple.com/lookup?id=879979828
+$Q = 'Q123470663'
+#https://podcasts.apple.com/gb/genre/podcasts-sport/id1545
 #$QID ="Q83060868"
 #to do
 # get the podcast logo URL and put it in P10286
@@ -9,6 +9,192 @@ $Q = 'Q110575475','Q110575472','Q110575473','Q110575478','Q110575479','Q11057547
 # get <link> and make it official website
 $errstring=''
 $debgstring=''
+
+$AppleToWD = @{
+    '1533'    = 'Q106393247' #science
+    '1303' = 'Q105011645'
+    #'26'='Q24634210' #   podcast
+    '1525'='Q106393006' #  interview podcast (music)
+    #'1525'='Q106393006' #  interview podcast
+    #''='Q74303978' # news and journalism podcast
+    '1563'='Q106747100' # film review podcast
+    # ''='Q72910060' # companion podcast
+    '1309'='Q105908617' # film and television podcast
+    # ''='Q106405444' # skeptical podcast
+    # ''='Q106634018' # government podcast
+    # ''='Q106640639' # pets and animal podcast
+    '1444'='Q106720962' # spirituality podcast
+    # ''='Q106727696' # relationship podcast
+    # ''='Q106744755' # volleyball podcast
+    # ''='Q106749370' # outdoor podcastview
+    # ''='Q106882447' # podcasting podcast
+    # ''='Q106915059' # training podcast
+    # ''='Q106997754' # video game music podcast
+    # ''='Q114907029' # fantasy baseball podcast
+    # ''='Q105011746' # crypto and blockchain podcast
+    '1304'='Q105884862' # educational podcast
+    # ''='Q105885086' # comics podcast
+    '1512'='Q106625373' # health and fitness podcast
+    '1324'='Q106625351' # society and culture podcast
+    '1494'='Q106632707' # non-profit podcast
+    # ''='Q106633376' # how-to podcast
+    # ''='Q106639813' # mental health podcast
+    # ''='Q106647217' # hobby podcast
+    # ''='Q106633624' # comedy fiction podcast
+    ''='Q106697982' #music interview podcast
+    # ''='Q106698140' # entertainment news podcast
+    '1489'='Q106704934' # news commentary podcast
+    # ''='Q106727577' # earth science podcast
+    # ''='Q106727595' # nature podcast
+    '1554'='Q106727771' # cricket podcast
+    '1546'='Q106727901' # association football podcast
+    '1560'='Q106727832' # fantasy sports podcast
+    # ''='Q106727914' # golf podcast
+    '1483'='Q105885059' # fiction podcast
+    # ''='Q106882567' # programming podcast
+    # ''='Q106996728' # sales podcast
+    # ''='Q106393247' # science podcast
+    # ''='Q104822202' # LGBT podcast
+    # ''='Q106640442' # children and family podcast
+    # ''='Q106647192' # role-playing or board game podcast
+    # ''='Q106704989' # tech news podcast
+    # ''='Q106727580' # life science podcast
+    # ''='Q106727606' # social science podcast
+    # ''='Q106727935' # rugby podcast
+    # ''='Q106747061' # film ' #  podcast
+    '1561'='Q106747143' # television review podcast
+    # ''='Q106748640' # athletics podcast
+    # ''='Q106882423' # Apple podcast
+    # ''='Q106914773' # drama podcast
+    # ''='Q106914963' # educational technology podcast
+    # '1484'='Q106997767' # retro gaming podcast
+    # ''='Q28136925' # horror podcast
+    # ''='Q115835375' # economics podcast
+    # ''='Q105884943' # feminist podcast
+    '1459'='Q106625210' # fashion and beauty podcast
+    #''='Q106625305' # investment podcast
+    '1406'='Q106625239' # visual arts podcast
+    '1495'='Q106633165' # improvised comedy podcast
+    '1484'='Q106633763' # drama fiction podcast
+    '1556'='Q106727999' # tennis podcast
+    # ''='Q106747030' # film history podcast
+    # ''='Q106749118' # amateur sports podcast
+    # ''='Q106779416' # wicca and witchcraft podcast
+    # ''='Q106914977' # higher education podcast
+    '1314'='Q1011299' # religion and spirituality podcast
+    # ''='Q106697970' # music commentary podcast
+    # ''='Q106720947' # Buddhistic podcast
+    # ''='Q106720953' # Hinduistic podcast
+    # ''='Q108357966' # actual play podcast
+    '1485'='Q105885182' # science fiction podcast
+    '1487'='Q105011823' # history podcast
+    # ''='Q106720957' # Jewish podcast
+    # ''='Q107442212' # ecology and enviromental podcast
+    # ''='Q86833385' # video game podcast
+    # ''='Q106625193' # literary podcast
+    #'1303'='Q106633152' # comedy  podcast
+    # ''='Q106639809' # fitness podcast
+    # ''='Q106639851' # pornographic or erotic podcast
+    # ''='Q106640680' # aviation podcast
+    # ''='Q106640655' # kid's story podcast
+    # ''='Q106640665' # leisure podcast
+    '1526'='Q106698131' # daily news podcast
+    # ''='Q106720960' # religious podcast
+    # ''='Q106727563' # chemistry podcast
+    '1549'='Q106727748' # baseball podcast
+    # ''='Q106727590' # naturalist podcast
+    # ''='Q106748460' # combat sports podcast
+    # ''='Q106882617' # web design podcast
+    # ''='Q106902380' # storytelling podcast
+    # ''='Q106914698' # self-help podcast
+    # ''='Q106915044' # K-12 podcast
+    # ''='Q106997772' # arcade games podcast
+    # ''='Q106997761' # PC gaming podcast
+    # ''='Q105007352' # business and finance podcast
+    # ''='Q105011645' # comedy and humor podcast
+    # ''='Q105011790' # anime and manga podcast
+    '1301'='Q105882178' # arts podcast
+    # ''='Q105882199' # automobile and automotive podcast
+    # ''='Q105474650' # fantasy podcast
+    # ''='Q106393042' # law and justice podcast
+    # ''='Q106625419' # documentary podcast
+    '1491'='Q106625324' # marketing podcast
+    '1518'='Q106625375' # medicine podcast
+    # ''='Q106633353' # course podcast
+    # ''='Q106633193' # stand-up comedy podcast
+    # ''='Q106633485' # language learning podcast
+    # ''='Q106639844' # nutrition podcast
+    # ''='Q106640589' # children's educational podcast
+    # ''='Q106647111' # crafts podcast
+    # ''='Q106727619' # personal journal podcast
+    # ''='Q106727950' # running podcast
+    # ''='Q106727966' # swimming podcast
+    '1555'='Q106745341' # wrestling podcast
+    # ''='Q106749214' # college and high school sports podcast
+    # ''='Q106779377' # astrology podcast
+    # ''='Q106882433' # gadget podcast
+    '1516'='Q106914703' # sex and sexuality podcast
+    # ''='Q106996733' # shopping podcast
+    # ''='Q106997718' # english learning podcast
+    # ''='Q106997706' # SEO marketing podcast
+    # ''='Q4088259' # blogcast
+    # ''='Q105885166' # speculative/fantastic fiction podcast
+    # ''='Q106707362' # Islamic podcast
+    '1527'='Q28135032' # political podcast
+    # ''='Q106720951' # Christian podcast
+    # ''='Q106779606' # Taoistic podcast
+    '1509'='Q110164689' # games podcast
+    # ''='Q105012297' # film podcast
+    # ''='Q105850136' # advice podcast
+    # ''='Q106392517' # astronomy podcast
+    '1318'='Q105012442' # technology podcast
+    '1488'='Q105012024' # true crime podcast
+    '1545'='Q105440808' # sports podcast
+    # ''='Q106393132' # philosophy podcast
+    # ''='Q106393171' # socialist podcast
+    '1310'='Q105580963' # music podcast
+    '1320'='Q106462625' # places and travel podcast
+    '1405'='Q106625222' # performing arts podcast
+    #''='Q106625318' # management podcast
+    # ''='Q106639800' # alternative health podcast
+    #''='Q106625263' # career podcast
+    # ''='Q106681812' # political satire podcast
+    # ''='Q106697896' # home and gardening podcast
+    # ''='Q106698068' # business news podcast
+    # ''='Q106704937' # sports news podcast
+    '1548'='Q106727754' # basketball podcast
+    '1536'='Q106727584' # mathematics podcast
+    '1542'='Q106727600' # physics podcast
+    # ''='Q106745097' # wilderness podcast
+    '1547'='Q106748356' # american football podcast
+    # ''='Q106779676' # atheistic podcast
+    # ''='Q106882658' # audio drama podcast
+    # ''='Q106882589' # VR and AR podcast
+    # ''='Q106902607' # personal finance podcast
+    # ''='Q106996766' # startup podcast
+    # ''='Q106996797' # venture capital podcast
+    # ''='Q106997784' # esports podcast
+    # ''='Q108263475' # skate podcast
+    # ''='Q106070543' # pop culture podcast
+    # ''='Q114907042' # fantasy football podcast
+    # ''='Q105908707' # television podcast
+    '1306'='Q106392716' # food and drinks podcast
+    # ''='Q106392992' # improvisational podcast
+    '1402'='Q106625205' # design podcast
+    #''='Q106625270' # entrepreneur podcast
+    # ''='Q106633543' # self-improvement podcast
+    # ''='Q106640603' # parenting podcast
+    # ''='Q106697975' # music history podcast
+    # ''='Q106727922' # hockey podcast
+    # ''='Q106746993' # aftershow podcast
+    # ''='Q106873456' # popular science podcast
+    # ''='Q106882415' # AI and data science podcast
+    # ''='Q106912483' # animation podcast
+    # ''='Q107442166' # entertainment podcast
+
+}
+
+
 function Send-Wikidata {
 
     param (
@@ -29,7 +215,7 @@ function Send-Wikidata {
     #if more than one $URL=$WD.statements.p1019.value.content[1]
     #if just one $URL=$WD.statements.p1019.value.content
    
-    #From the WIkidate Dictionary  extra the value of the newest web feed URL
+    #From the Wikidata Dictionary  extra the value of the newest web feed URL
     $APPLEID=$WD.statements.p5842.value.content | Sort-Object -Property ID| Select-Object -first 1
     $URL = 'http://itunes.apple.com/lookup?id='+$APPLEID
 
@@ -45,7 +231,7 @@ function Send-Wikidata {
         $releasedatestr = $releasedate.ToString("yyyy-MM-dd")
         $span=new-timespan -Start $feed.results.releasedate -End $date
         if ($span.Days -gt 365) {$out = "%7C%7C$QID%7CP582%7C%2b$($releasedatestr)T00:00:00Z%2F11%7CP585%7C%2b$($datestr)T00:00:00Z%2F11%7CS248%7CQ70058728%7CP813"}
-        #get the largest number of podcasts the wididata entry has
+        #get the largest number of podcasts the wikidata entry has
         $AppleAmount=$Feed.Results.trackCount
         $BiggestWDamount=0
         ForEach ($CountEntry in $WD.statements.p1113.value.content.amount) {
@@ -53,8 +239,19 @@ function Send-Wikidata {
             if ($CountEntry.length -gt 0) {$currentcount = $CountEntry.Substring(1)}
             if ($currentcount -gt $BiggestWDamount) {$BiggestWDamount=$currentcount} 
          }
-        if ($AppleAmount -gt $BiggestWDamount) {$out = "%7C%7C$QID%7CP1113%7C$AppleAmount%7CP585%7C%2b$($datestr)T00:00:00Z%2F11%7CS248%7CQ70058728%7CP813%7C%2b$($datestr)T00:00:00Z%2F11"}
- 
+        if ($AppleAmount -gt $BiggestWDamount) {$out = "%7C%7C$QID%7CP1113%7C$AppleAmount%7CP585%7C%2b$($datestr)T00:00:00Z%2F11%7CS248%7CQ70058728"}
+ #removed date retrieved %7CP813%7C%2b$($datestr)T00:00:00Z%2F11
+        foreach ($Qitem in $Feed.results.genreIds) {
+            #$Qitem
+         $genre=$AppleToWD[$QItem]
+        if ($genre.length -gt 0) {$out += "%7C%7C$QID%7CP136%7C$genre%7CS248%7CQ70058728%7CP813"}   
+        }
+        if ($WD.statements.p2561.value.content.length -gt 0){
+            $name=$WD.statements.p2561.value.content
+            $name=[System.Web.HTTPUtility]::UrlEncode($name)
+            $out += "%7C%7C-$QID%7CP2561%7C%22$name%22"
+        }
+
         if ($WD.statements.p10286.value.content.length -eq 0){
             #   Write-Output "set it"
                $logoURL=$feed.Results.artworkUrl600
@@ -80,7 +277,8 @@ function Send-Wikidata {
     #       $output = "https://quickstatements.toolforge.org/#/v1="
    #$output = $output + $out
    #Start-Process "chrome.exe" "$output"
-        
+   #$feed.results.genreIds
+   #$feed.results.genres   
     }
     catch {$errstring+="Cannot download podcast feed for $QID"
 } 
